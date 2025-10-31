@@ -1,5 +1,5 @@
-num2 = 2
-numb2 = 3
+num1 = 2
+num2 = 3
 
 sum = num1 + num2
 
